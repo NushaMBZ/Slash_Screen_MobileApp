@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "674284370485",
+    "project_id": "powerhourloginregister",
+    "storage_bucket": "powerhourloginregister.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:674284370485:android:939827986a1f1de2e04f7c",
+        "android_client_info": {
+          "package_name": "com.example.slashscreen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "674284370485-28216ttja23d9set5grrkqr1sibkelhn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeLYtam5q-BkoYV9UPwpM0_F6KwTW1DoA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "674284370485-28216ttja23d9set5grrkqr1sibkelhn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
