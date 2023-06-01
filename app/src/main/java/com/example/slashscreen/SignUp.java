@@ -58,7 +58,7 @@ public class SignUp extends AppCompatActivity {
                     if (notSuccess) {
                         Toast.makeText(SignUp.this, "Sign up failed", Toast.LENGTH_SHORT).show();
                     } else {
-                        Toast.makeText(SignUp.this, "Sign up successful", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(SignUp.this, "Sign up Successful", Toast.LENGTH_SHORT).show();
                         Intent intent = new Intent(SignUp.this, Dashboard.class);
                         startActivity(intent);
                     }
